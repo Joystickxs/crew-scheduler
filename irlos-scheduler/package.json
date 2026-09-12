@@ -1,0 +1,10 @@
+{
+  "name": "irlos-crew-scheduler",
+  "version": "1.0.0",
+  "description": "Crew scheduling exercise for Irlos Live - staffs Solo Streams, Backpack Streams, and Multi-Cam Festivals across a Monday-Friday work week.",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js",
+    "test": "node --test tests/"
+  }
+}
